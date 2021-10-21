@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url("../img/fondo2.jpg")top;
+    background-size:cover;
+    background-repeat: no-repeat;
+    opacity: 1.9;
+}
+
+.container{
+    margin:5%;
+    margin-top: 5%;
+    padding: 0
+
+
+}
+
+.card{
+    background-color: #6c757d;
+    opacity:.85;
+    padding: 0 20px;
+
+}
+
+
